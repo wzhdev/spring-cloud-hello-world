@@ -1,4 +1,4 @@
-package com.wzh.dev.spring.cloud.springcloudhelloworld;
+package com.wzh.dev.spring.cloud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.wzh.dev.spring.cloud.springcloudhelloworld;
+package com.wzh.dev.spring.cloud;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
